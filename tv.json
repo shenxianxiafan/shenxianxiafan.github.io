@@ -4,7 +4,7 @@
       "key": "drpy01",
       "name": "appdrpy",
       "type": 3,
-      "api": "http://192.168.3.16:5757/api.php",
+      "api": "http://192.168.3.16:5757/api",
       "searchable": 1
     }
   ]
