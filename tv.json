@@ -1,11 +1,10 @@
 {
   "sites": [
     {
-      "key": "drpy01",
-      "name": "appdrpy",
-      "type": 3,
-      "api": "http://192.168.3.16:5757/api",
-      "searchable": 1
+      "key": "jiujiu",
+      "name": "999片",
+      "type": 4,
+      "api": "http://192.168.3.16:5757/api/999片?pwd=123466"
     }
   ]
 }
