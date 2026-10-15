@@ -1,0 +1,11 @@
+{
+  "sites": [
+    {
+      "key": "drpy01",
+      "name": "本地DRPY",
+      "type": 3,
+      "api": "http://192.168.1.100:9978/api.php",
+      "searchable": 1
+    }
+  ]
+}
