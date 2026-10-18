@@ -4,7 +4,7 @@
       "key": "jiujiu",
       "name": "999片",
       "type": 4,
-      "api": "http://192.168.3.16:5757/api/999片?pwd=123466"
+      "api": "http://[2409:8a70:3e5b:98c4:3ddc:ccfe:be75:dc80]:91/api/999片?pwd=123466"
     }
   ]
 }
